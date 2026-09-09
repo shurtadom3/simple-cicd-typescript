@@ -28,3 +28,5 @@ describe("subtract", () => {
       .toBe(5);
   });
 });
+
+export {};

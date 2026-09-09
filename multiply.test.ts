@@ -28,3 +28,5 @@ describe("multiply", () => {
       .toBe(-6);
   });
 });
+
+export {};

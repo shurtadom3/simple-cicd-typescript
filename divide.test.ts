@@ -28,3 +28,5 @@ describe("divide", () => {
       .toThrow("Cannot divide by zero");
   });
 });
+
+export {};
